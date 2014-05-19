@@ -4,4 +4,4 @@
 - Get familiar with [markdown](https://help.github.com/articles/markdown-basics), which is the syntax for writing on the web that GitHub's internal tools use. It's simple, and exists to prioritize writing versus writing with markup language all wrapped around text (like html). Your markdown files will automatically be compiled into html when you go to publish. This .md file I'm writing now is written in markdown. You can look at the raw file of it here in GitHub to see.
 - I published the most recent 4in1 site using [GitHub Pages](https://help.github.com/articles/user-organization-and-project-pages). That means that there are at least two views of the 4in1 repository:
     + the rendered page found at [4in1.github.io](http://4in1.github.io), and
-    + the code found at [github.com/4in1](http://github.com/4in1)
+    + the code found at [github.com/4in1](http://github.com/4in1), (where this file that you're reading is located).
