@@ -7,6 +7,6 @@
 
 cards created by [@buddytoledo](https://twitter.com/buddytoledo)
 
-webdev team:
+web team:
 - [@bzelip](https://twitter.com/bzelip)
 - [@buddytoledo](https://twitter.com/buddytoledo)

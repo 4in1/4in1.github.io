@@ -79,12 +79,17 @@ nav {
   text-align: center;
 }
 
+.toggle-title p {
+  line-height: 1;
+  font-size: 1.5rem;
+}
+
 .toggle-container .toggle-descrip {
   display: none;
   font-size: .55rem;
 }
 
-.descrip {
+.toggle-descrip p {
   margin-bottom: .3rem;
   text-align: justify;
   line-height: 1.2;
